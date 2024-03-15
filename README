@@ -1,0 +1,3 @@
+tuning_flight.py -> main flight script for flying and testing
+camera_control_helpers.py -> functions for use with flying scripts
+bench_test_analysis.m -> data analysis with data parsers defined in file     
